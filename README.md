@@ -12,4 +12,4 @@ Randomly generates ten math problems formatted as `X + Y = `, each of `X` and `Y
 <br><br>
 
 ## 🔬 Demo
-
+<img src="https://github.com/ayahkashif/Little-Professor/blob/main/demo.png" alt="demo image" width="445">
